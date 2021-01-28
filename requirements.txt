@@ -1,0 +1,5 @@
+PyQt5==5.15.2
+configparser==5.0.1
+pyserial==3.5
+keyboard==0.13.5
+libscrc==1.6
